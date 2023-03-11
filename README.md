@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pwbarbosa
-- 👀 I’m interested in learning as much code and protocol as I can.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on nothing in particular at the moment, BUT I'm open to almost anything! 
+- 👀 I love learning, ideating, planning and executing.
+- 🌱 I’m currently PHP, Laravel, DevOps, and React
+- 💞️ I've got a couple of collaborations currently, but may be looking for more in the future.
 - 📫 How to reach me TBD.
 
 <!---
